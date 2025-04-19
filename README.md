@@ -59,7 +59,12 @@ Hello! I’m **Giti Shekari**, a passionate Data Analyst with a strong foundatio
 ---
 
 ## 📫 Contact & Connect
+## 📫 Contact & Connect
 
+<p align="center">
+  <a href="mailto:giti.shekari@outlook.com"><img src="https://img.shields.io/badge/Email-giti.shekari%40outlook.com-c14438?logo=microsoft-outlook" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/giti-shekari/"><img src="https://img.shields.io/badge/LinkedIn-Giti_Shekari-blue?logo=linkedin" alt="LinkedIn"/></a>
+</p>
 - **Email:** [giti.shekari@outlook.com](mailto:giti.shekari@outlook.com)  
 - **LinkedIn:** [linkedin.com/in/giti-shekari](https://www.linkedin.com/in/giti-shekari/)  
 
