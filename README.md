@@ -1,90 +1,65 @@
+# Giti Shekari
 
-<!-- ====== HEADER ====== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LzrtpY0PdnLyPFfI5u/giphy.gif" width="200px" alt="Hello GIF" />
-</p>
-
-<h1 align="center">🚀 Giti Shekari</h1>
-<h3 align="center">Data Analyst | Turning Data into Impactful Stories</h3>
-
-<p align="center">
-  <a href="https://github.com/gitishekarii"><img src="https://img.shields.io/badge/GitHub-gitishekarii-181717?style=for-the-badge&logo=github" alt="GitHub Badge" /></a>
-  <a href="https://www.linkedin.com/in/giti-shekari/"><img src="https://img.shields.io/badge/LinkedIn-Giti%20Shekari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" /></a>
-  <a href="mailto:giti.shekari@outlook.com"><img src="https://img.shields.io/badge/Email-giti.shekari@outlook.com-green?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
-</p>
+**Data Analyst | M.Sc. in Applied Data Analytics | Mechatronics & Informatique Graduate **
 
 ---
 
 ## 🔍 About Me
 
-I’m **Giti Shekari**, a passionate Data Analyst with expertise in Mechatronics, Computer Science, and Applied Data Analytics. I thrive on converting complex datasets into clear narratives that drive strategic decisions. My toolkit spans Python, SQL, graph databases, and advanced machine-learning pipelines.
+Hello! I’m **Giti Shekari**, a passionate Data Analyst with a strong foundation in engineering and computer science. I combine my Mechatronics background with advanced data analytics skills to uncover insights, optimize processes, and drive data-informed decisions.
 
-**🔭 I’m currently working on:**
-- Building real-time ETL pipelines for Fortune 500 analytics dashboards.  
-- Implementing graph-based recommendation engines with Neo4J.
-
-**🌱 I’m learning:**
-- Deep learning model optimization and interpretability.  
-- Cloud-based data orchestration (Azure, AWS).
-
-**💬 Ask me about:**
-- Data warehousing best practices  
-- Machine learning model deployment  
-- Graph database design
-
-**🤝 I’m open to:**
-- Collaborations on data-driven projects  
-- Speaking engagements on analytics workflows
+**Highlights:**
+- 🎓 Dual Bachelor’s degrees in Mechatronics and Informatique  
+- 🎓 Master’s in Applied Data Analytics  
+- 💻 Proficient in full data lifecycle: collection, processing, analysis, and visualization  
+- 🔧 Skilled in building ETL pipelines, data warehouses, and machine learning models  
 
 ---
 
-## 💼 Featured Projects
+## 🎓 Education
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| [InsightDash](https://github.com/gitishekarii/InsightDash) | Interactive dashboard for KPI tracking with real-time data streams. | Python · Dash · SQL · Docker |
-| [GraphRecommender](https://github.com/gitishekarii/GraphRecommender) | Personalized recommendation engine leveraging Neo4J graph analysis. | Python · Neo4J · Flask |
-| [ETL-Automator](https://github.com/gitishekarii/ETL-Automator) | Configurable ETL framework for large-scale data pipelines. | Python · SSIS · Azure Data Factory |
+- **M.Sc. in Applied Data Analytics**  
+  - DataScience Tech Institute (2024 – 2025)  
+  - Key coursework: Statistical Learning, ETL & DataWarehouse, Data Visualization, Predictive Modeling  
 
-> 💡 *Each project repository includes detailed documentation, unit tests, and CI/CD pipelines.*
+- **B.Sc. in Informatique**  
+  - University of Strasbourg (2021 - 2024)  
+  - Key coursework: Data Structure, Databases, Software Engineering, Web Development  
 
----
-
-## 🛠️ Skills & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Neo4J-005D5D?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4J" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FCA121?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/SSIS-0078D4?style=flat-square" alt="SSIS" />
-  <img src="https://img.shields.io/badge/SSMS-4E7CC8?style=flat-square" alt="SSMS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+- **B.Eng. in Mechatronics**  
+  - Sharif University Of Technology (2015 – 2020)  
+  - Key coursework: Control Systems, Robotics, Embedded Systems, Sensors & Actuators  
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitishekarii&show_icons=true&theme=radical" alt="Giti's GitHub stats" />
-</p>
+### Programming & Tools
+- **Languages:** Python, SQL, C, JavaScript, HTML, CSS  
+- **Version Control:** Git  
+- **IDE & Platforms:** Microsoft Visual Studio, SSMS  
+
+### Databases & Data Engineering
+- **NoSQL & Graph DB:** MongoDB, Neo4j  
+- **ETL & Warehousing:** SSIS, Data Warehouse design, ETL pipelines, PowerBI, Excel 
+
+### Data Analytics & Machine Learning
+- **Analytics:** Data cleaning, exploratory data analysis (EDA), statistical analysis  
+- **Machine Learning:** Supervised & unsupervised learning, model evaluation, feature engineering  
+- **Visualization:** Matplotlib, Seaborn , Numpy, scipy, Plotly 
 
 ---
 
-## 🎯 Goals for 2025
+## 📂 Selected Projects
 
-- Publish a complete ETL orchestration framework as an open-source package.  
-- Speak at two international data analytics conferences.  
-- Mentor three aspiring data analysts through hands-on projects.
+- **Project Title 1**: ....
+- **Project Title 2**: ....
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Contact & Connect
 
-<p align="center">
-  <a href="https://twitter.com/gitishekarii"><img src="https://img.shields.io/badge/Twitter-@gitishekarii-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-  <a href="mailto:giti.shekari@outlook.com"><img src="https://img.shields.io/badge/Email-giti.shekari@outlook.com-0072C6?style=for-the-badge&logo=gmail" alt="Email" /></a>
-</p>
-```
+- **Email:** [giti.shekari@outlook.com](mailto:giti.shekari@outlook.com)  
+- **LinkedIn:** [linkedin.com/in/giti-shekari](https://www.linkedin.com/in/giti-shekari/)  
+
+
