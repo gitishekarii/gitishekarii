@@ -1,6 +1,6 @@
 # Giti Shekari
 
-**Data Analyst | M.Sc. in Applied Data Analytics | Mechatronics & Informatique Graduate **
+** Data Analyst | M.Sc. in Applied Data Analytics | Mechatronics & Informatique Graduate **
 
 ---
 
