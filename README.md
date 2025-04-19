@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ====== HEADER ====== -->
 <p align="center">
   <img src="https://media.giphy.com/media/LzrtpY0PdnLyPFfI5u/giphy.gif" width="200px" alt="Hello GIF" />
