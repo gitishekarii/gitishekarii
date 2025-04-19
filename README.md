@@ -1,7 +1,8 @@
 # Giti Shekari
 
-** Data Analyst | M.Sc. in Applied Data Analytics | Mechatronics & Informatique Graduate **
+**Data Analyst | M.Sc. in Applied Data Analytics | Mechatronics & Informatique Graduate**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/giti-shekari/) [![Email](https://img.shields.io/badge/Email-Outlook-c14438?logo=microsoft-outlook)](mailto:giti.shekari@outlook.com) [![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&logo=github)](https://github.com/yourusername)
 ---
 
 ## 🔍 About Me
